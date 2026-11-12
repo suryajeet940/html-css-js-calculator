@@ -2,7 +2,7 @@
 
 A clean, responsive calculator built with HTML, CSS, and JavaScript. My very first project.
 
-**[🔗 Live Demo](https://suryajeet940.github.io/REPO-NAME/)**
+**[🔗 Live Demo](https://suryajeet940.github.io/html-css-js-calculator/)**
 
 ![Calculator Screenshot](screenshot.png)
 
