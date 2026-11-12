@@ -4,7 +4,7 @@ A clean, responsive calculator built with HTML, CSS, and JavaScript. My very fir
 
 **[🔗 Live Demo](https://suryajeet940.github.io/html-css-js-calculator/)**
 
-![Calculator Screenshot](<img width="787" height="927" alt="image" src="https://github.com/user-attachments/assets/db20828d-aef3-4bf6-bb21-aafe309fcbb2" />
+![Calculator Screenshot](screenshot.png<img width="787" height="927" alt="screenshot png" src="https://github.com/user-attachments/assets/e7266d7f-23b5-4e2e-97a6-8585f0b3bc1a" />
 )
 
 ## ✨ Features
